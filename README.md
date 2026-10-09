@@ -14,11 +14,10 @@
 - `NotificationProcessor.process(Notification)` — бізнес-логіка
 
 ## Розрахунок варіанта
-Варіант: **V = N mod 3 = 2** (виконано варіант 2).
+Варіант: **V = 14 mod 3 = 2**.
 
 ## Запуск тестів
 Потрібно: JDK 21+ та Maven.
 
-```bash
 mvn test
-```
+
